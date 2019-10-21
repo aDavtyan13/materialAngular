@@ -7,7 +7,6 @@
     display:  flex;
     width: 90%;
     justify-content: space-between;
-    /* justify-content: flex-end;   */
 }
 .icons{
     display: flex;
@@ -37,7 +36,7 @@ i{
     background-color: white;
     display: flex;
     justify-content: space-around;
-    margin: 64px 64px 64px 264px;
+    margin: 64px 64px 43px 264px;
     border: none;
 }
 .textInLikeWhatYouSee{

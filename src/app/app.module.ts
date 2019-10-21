@@ -7,6 +7,7 @@ import { AppComponent } from './app.component';
 import { MenuListComponent } from './menu-list/menu-list.component';
 import { MenuItemComponent } from './menu-item/menu-item.component';
 import { HeaderComponent } from './header/header.component';
+import { TimePracticeComponent } from './time-practice/time-practice.component';
 // import { NoopAnimationsModule } from '@angular/platform-browser/animations';
 
 @NgModule({
@@ -14,7 +15,8 @@ import { HeaderComponent } from './header/header.component';
     AppComponent,
     MenuListComponent,
     MenuItemComponent,
-    HeaderComponent
+    HeaderComponent,
+    TimePracticeComponent
   ],
   imports: [
     BrowserModule,
