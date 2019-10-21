@@ -2,27 +2,30 @@
     
     width: 20%;
     float: right;
-    margin: 4px 23px;
+    margin: 4px 43px;
     text-align: center;
     background-color: white;
 }
+.timePractice h2{
+    font-weight: 500 ;
+}
 
 .round{
-    margin: 4px 67px  47px;
-    border:13px solid red;
+    margin: 4px 67px 57px 67px;
+    border:13px solid rgb(100, 1, 75);
     border-radius: 50%;
     padding: 23px;
 
 }
 
 .links{
-    background-color: red;
-    padding: 17px;
+    background-color: rgb(100, 1, 75);
+    padding: 13px;
     display: flex;
     justify-content: space-between;
 }
 .links i{
-    font-size: 42px;
+    font-size: 33px;
     color: white;
     cursor: pointer;
 }
